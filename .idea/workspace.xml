@@ -4,23 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e6a64d-cf80-488d-b1a0-b843eda0945f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Noviembre24Hilos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/com/corenetworks/ejemplo2/modelo/Ratones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo1/modelo/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo1/presentacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo2/presentacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo3/modelo/Impresora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo3/modelo/TareaImpresion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo3/presentacion/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo4/modelo/Compartido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo4/modelo/TareaEspera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/ejemplo4/presentacion/ProbarWaitNotify.java" afterDir="false" />
+    <list default="true" id="57e6a64d-cf80-488d-b1a0-b843eda0945f" name="Changes" comment="Proyecto de Hilos">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/MonedasEj1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/PersonaEj3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio1Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio1Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio1While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio3Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio3Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio3While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio4Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio4Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio4While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio5Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio5Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio5While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio6Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio6While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio7Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio8Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio9Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjercicioDevOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjercicioLocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjercicioLocalDate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjercicioLocalDate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/EjercicioLocalDate4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercico5Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercico7Bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercico8bucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarMonedaEj1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarPersonaEj3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +61,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="TitaRuiz &lt;ggp2002es@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -50,7 +82,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ggp20/Documents/Cursos2023/IFCD0609-CoreNetworks/Noviembre23Repaso&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tarde/Documents/Projectos Gladys/Examen_Gladysalvarado/src/Main.java&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -63,9 +97,9 @@
       <recent name="C:\Users\ggp20\Documents\Cursos2023\IFCD0609-CoreNetworks\Noviembre24Hilos\src\com\corenetworks\ejemplo2\presentacion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProbarWaitNotify">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Main" />
+  <component name="RunManager">
+    <configuration name="Ejercicio1Bucle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejercicio1Bucle" />
       <module name="Noviembre24Hilos" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProbarWaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.ejemplo4.presentacion.ProbarWaitNotify" />
+    <configuration name="Ejercicio2bucle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejercicio2bucle" />
       <module name="Noviembre24Hilos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corenetworks.ejemplo4.presentacion.*" />
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.corenetworks.ejemplo1.presentacion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.ejemplo1.presentacion.Main" />
+    <configuration name="Ejercicio6Bucle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejercicio6Bucle" />
       <module name="Noviembre24Hilos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corenetworks.ejemplo1.presentacion.*" />
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.corenetworks.ejemplo2.presentacion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.ejemplo2.presentacion.Main" />
+    <configuration name="EjercicioLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EjercicioLocalDate" />
       <module name="Noviembre24Hilos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corenetworks.ejemplo2.presentacion.*" />
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.ejemplo3.presentacion.main" />
+    <configuration name="Ejercico7Bucle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejercico7Bucle" />
       <module name="Noviembre24Hilos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corenetworks.ejemplo3.presentacion.*" />
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProbarWaitNotify" />
-        <item itemvalue="Application.com.corenetworks.ejemplo2.presentacion.Main" />
-        <item itemvalue="Application.com.corenetworks.ejemplo1.presentacion.Main" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EjercicioLocalDate" />
+        <item itemvalue="Application.Ejercicio6Bucle" />
+        <item itemvalue="Application.Ejercico7Bucle" />
+        <item itemvalue="Application.Ejercicio2bucle" />
+        <item itemvalue="Application.Ejercicio1Bucle" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +182,19 @@
       <option name="presentableId" value="Default" />
       <updated>1700776213257</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto de Hilos">
+      <option name="closed" value="true" />
+      <created>1700851769780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700851769780</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto de Hilos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de Hilos" />
   </component>
 </project>
