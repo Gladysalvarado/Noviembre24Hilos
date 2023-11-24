@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.corenetworks.modelo;
+package com.corenetworks.ejemplo1.modelo;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

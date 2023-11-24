@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.corenetworks.presentacion;
+package com.corenetworks.ejemplo1.presentacion;
 
-import com.corenetworks.modelo.Contador;
+import com.corenetworks.ejemplo1.modelo.Contador;
 
 /**
  *

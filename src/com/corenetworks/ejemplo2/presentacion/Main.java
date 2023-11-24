@@ -2,7 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg02hilos;
+package com.corenetworks.ejemplo2.presentacion;
+
+import com.corenetworks.com.corenetworks.ejemplo2.modelo.Ratones;
 
 /**
  *

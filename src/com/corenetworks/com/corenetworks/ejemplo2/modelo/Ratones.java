@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package pkg02hilos;
+package com.corenetworks.com.corenetworks.ejemplo2.modelo;
 public class Ratones extends Thread {
     String nombre;
     int comida;
